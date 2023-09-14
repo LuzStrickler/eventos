@@ -1,0 +1,11 @@
+#recuadro {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 30px;
+    font-size: 12px;
+    background-color: #7eded1;
+    border-width: 1px;
+    border-color: #48a599;
+    padding: 20px;
+}

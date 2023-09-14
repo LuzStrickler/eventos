@@ -1,0 +1,14 @@
+body {
+    margin-top: 90px;
+}
+
+#miDiv {
+    position: fixed;
+    top: 0;
+    left: 0;
+    color: rgb(24, 155, 96);
+  }  
+
+#textolargo {
+    width: 2048px;
+}
